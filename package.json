@@ -1,6 +1,6 @@
 {
   "name": "@rnacanvas/consensize",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Obtain consensus values",
   "main": "./dist/index.js",
   "scripts": {
