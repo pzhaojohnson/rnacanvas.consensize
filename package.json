@@ -1,7 +1,7 @@
 {
   "name": "@rnacanvas/consensize",
-  "version": "2.2.0",
-  "description": "Obtain consensus values",
+  "version": "2.2.1",
+  "description": "Get consensus values",
   "main": "./dist/index.js",
   "scripts": {
     "test": "jest",
