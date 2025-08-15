@@ -81,7 +81,7 @@ mostCommonValue(['a', 'b', 'b', 'g', 'e', 'b']); // "b"
 // multiple most common values
 // (it is undefined which one is returned
 mostCommonValue([1, 2, 2, 3, 3, 4]); // 2 or 3
-mostCommonValue(['b', 'e', 'b', 'e']); // "b" or "e"
+mostCommonValue(['b', 'e', 'f']); // "b", "e" or "f"
 
 // an empty array of values
 mostCommonValue([]); // throws
